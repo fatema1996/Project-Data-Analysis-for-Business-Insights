@@ -28,14 +28,12 @@ Clarity: Logical, well-structured responses.
 Creativity: Innovative problem-solving and examples.
 Completeness: Answer all questions within the word limit.
 
-6. Deadlines and Late Submissions
-Deadline: Submit on time; trainees who fail to submit the project will miss the “Certificate of Excellence”
 
-7. Additional Resources
-Refer to lecture notes and recommended readings.
-Contact the instructor or peers for clarifications before the deadline.
 
-ShopEase Sales Analysis Report
+
+➡️ ShopEase Sales Analysis Report
+
+
 Overview
 This report analyzes transactional sales data from ShopEase to uncover trends, customer behavior, and sales performance, aiming to improve decision-making and enhance customer satisfaction.
 Key Insights
